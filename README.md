@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi, I'm UNIVERSE.
 
-<!--
-**Lactea98/Lactea98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Lactea98&show_icons=true&theme=radical" width="380">
 
-Here are some ideas to get you started:
+*I like security and development.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*And I will be Security Engineer.*
+
+> I like this sentence *'Effort does not betray.'*
+
+
+
+### About Me
+
+```c++
+struct AboutMe{
+	Like string,
+	Education string,
+	Award string,
+	Job string
+}
+
+int main(){
+	AboutMe me;
+	me.Like = "Playing CTF \n";
+	me.Like += "Bugbounty \n";
+	me.Like += "Web and pwnable";
+	
+	me.Education = "C lang 청출어람";
+	
+	me.Award = "The 5th Development Security Contest 'Encouragement Award'";
+	
+	me.Job = "University CERT (2017 ~ )";
+	me.Job += "Cyber Operation Center soldier (2019 ~ 2020)";
+}
+```
