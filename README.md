@@ -22,8 +22,8 @@ struct AboutMe{
 
 int main(){
 	AboutMe me;
-	me.Like = "Playing CTF \n";
-	me.Like += "Bugbounty \n";
+	me.Like = "Playing CTF";
+	me.Like += "Bugbounty";
 	me.Like += "Web and pwnable";
 	
 	me.Education = "C lang 청출어람";
