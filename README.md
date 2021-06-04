@@ -17,7 +17,8 @@ struct AboutMe{
 	Like string,
 	Education string,
 	Award string,
-	Job string
+	Job string,
+	BugBounty string
 }
 
 int main(){
@@ -32,5 +33,10 @@ int main(){
 	
 	me.Job = "University CERT (2017 ~ )";
 	me.Job += "Cyber Operation Center soldier (2019 ~ 2020)";
+	
+	me.BugBounty = "KVE-2020-1698";
+	me.BugBounty += "NBB-1810";
+	me.BugBounty += "KVE-2021-0637";
+	
 }
 ```
