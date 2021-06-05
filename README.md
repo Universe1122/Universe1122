@@ -15,7 +15,6 @@
 ```c++
 struct AboutMe{
 	Like string,
-	Education string,
 	Award string,
 	Job string,
 	BugBounty string
@@ -27,16 +26,14 @@ int main(){
 	me.Like += "Bugbounty";
 	me.Like += "Web and pwnable";
 	
-	me.Education = "C lang 청출어람";
-	
 	me.Award = "The 5th Development Security Contest 'Encouragement Award'";
 	
 	me.Job = "University CERT (2017 ~ )";
 	me.Job += "Cyber Operation Center soldier (2019 ~ 2020)";
+	me.Job += "Student and... Bug hunter!!"
 	
 	me.BugBounty = "KVE-2020-1698";
 	me.BugBounty += "NBB-1810";
 	me.BugBounty += "KVE-2021-0637";
-	
 }
 ```
