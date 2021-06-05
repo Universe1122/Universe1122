@@ -10,7 +10,7 @@
 
 
 
-### About Me
+## About Me
 
 ```c++
 struct AboutMe{
@@ -38,7 +38,7 @@ int main(){
 }
 ```
 
-### Bug Bounty
+## Bug Bounty
 
 ```
 KVE-2020-1698
