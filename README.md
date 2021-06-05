@@ -37,3 +37,11 @@ int main(){
 	me.BugBounty += "KVE-2021-0637";
 }
 ```
+
+### Bug Bounty
+
+```
+KVE-2020-1698
+NBB-1810
+KVE-2021-0637
+```
