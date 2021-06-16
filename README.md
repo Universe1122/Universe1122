@@ -40,11 +40,15 @@ int main(){
 
 ## Bug Bounty
 
-```
+
 KVE-2020-1698
-NBB-1810
+
+NBB-1810	[Naver Bug Bounty](https://bugbounty.naver.com/ko/halloffame)
+
 KVE-2021-0637
+
 KVE-????-????  (진행중)
+
 KVE-????-????  (진행중)
+
 KVE-????-????  (진행중)
-```
