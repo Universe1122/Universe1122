@@ -39,18 +39,18 @@ int main(){
 ```
 
 ## Bug Bounty
+- KVE-2020-1698
+- NBB-1810	[Naver Bug Bounty 'SPECIAL CONTRIBUTORS'](https://bugbounty.naver.com/ko/halloffame)
+- KVE-2021-0637
+- KVE-2021-0735  (진행중)
+- KVE-2021-0741  (진행중)
+- KVE-2021-0742  (진행중)
+- KVE-2021-0754  (진행중)
+
+## Activity
+
+- Changwon University [CASPER](https://casper.or.kr)
+- BOB 10th 취약점 분석 트랙
+- [null2root](https://null2root.github.io/history.html) 준회원
 
 
-KVE-2020-1698
-
-NBB-1810	[Naver Bug Bounty 'SPECIAL CONTRIBUTORS'](https://bugbounty.naver.com/ko/halloffame)
-
-KVE-2021-0637
-
-KVE-2021-0735  (진행중)
-
-KVE-2021-0741  (진행중)
-
-KVE-2021-0742  (진행중)
-
-KVE-2021-0754  (진행중)
