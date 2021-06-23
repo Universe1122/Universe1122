@@ -50,7 +50,7 @@ int main(){
 ## Activity
 
 - Changwon University [CASPER](https://casper.or.kr)
-- BOB 10th 취약점 분석 트랙
+- [BOB 10th](https://www.kitribob.kr/) 취약점 분석 트랙
 - [null2root](https://null2root.github.io/history.html) 준회원
 
 
