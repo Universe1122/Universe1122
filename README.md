@@ -35,6 +35,10 @@ int main(){
 	me.BugBounty = "KVE-2020-1698";
 	me.BugBounty += "NBB-1810";
 	me.BugBounty += "KVE-2021-0637";
+	me.BugBounty += "KVE-2021-0735";
+	me.BugBounty += "KVE-2021-0741";
+	me.BugBounty += "KVE-2021-0742";
+	me.BugBounty += "KVE-2021-0754 (진행중)";
 }
 ```
 
@@ -42,9 +46,9 @@ int main(){
 - KVE-2020-1698
 - NBB-1810	[Naver Bug Bounty 'SPECIAL CONTRIBUTORS'](https://bugbounty.naver.com/ko/halloffame)
 - KVE-2021-0637
-- KVE-2021-0735  (진행중)
-- KVE-2021-0741  (진행중)
-- KVE-2021-0742  (진행중)
+- KVE-2021-0735  
+- KVE-2021-0741  
+- KVE-2021-0742  
 - KVE-2021-0754  (진행중)
 
 ## Activity
