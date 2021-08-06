@@ -38,7 +38,7 @@ int main(){
 	me.BugBounty += "KVE-2021-0735";
 	me.BugBounty += "KVE-2021-0741";
 	me.BugBounty += "KVE-2021-0742";
-	me.BugBounty += "KVE-2021-0754 (진행중)";
+	me.BugBounty += "KVE-2021-0754";
 }
 ```
 
@@ -49,7 +49,7 @@ int main(){
 - KVE-2021-0735  
 - KVE-2021-0741  
 - KVE-2021-0742  
-- KVE-2021-0754  (진행중)
+- KVE-2021-0754
 
 ## Activity
 - 사이버작전사령부 정보보호병 (19.07 ~ 20.11)
