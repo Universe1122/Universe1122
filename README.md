@@ -55,6 +55,5 @@ int main(){
 - 사이버작전사령부 정보보호병 (19.07 ~ 20.11)
 - Changwon University [CASPER](https://casper.or.kr) 21년도 동아리 회장 (21.03 ~ )
 - [BOB 10th](https://www.kitribob.kr/) 취약점 분석 트랙 (21.07 ~ )
-- [null2root](https://null2root.github.io/history.html) 준회원 (21.07 ~ )
 
 
