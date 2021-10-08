@@ -26,5 +26,3 @@
 
 ## Award
 - 제 5회 소프트웨어 개발보안 경진대회 장려상
-
-![image](https://user-images.githubusercontent.com/38517436/136503708-8c70e451-ec74-4b58-90eb-2efec6865076.png)
