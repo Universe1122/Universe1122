@@ -20,10 +20,11 @@
 - KVE-2021-1222
 
 ## Activity
+- 대학 CERT (2017.07 ~ )
 - 사이버작전사령부 정보보호병 (2019.07 ~ 2020.11)
+- ??? 신규웹사이트 취약점점검
 - Changwon University [CASPER](https://casper.or.kr) 21년도 동아리 회장 (2021.03 ~ )
 - [BOB 10th](https://www.kitribob.kr/) 취약점 분석 트랙 (2021.07 ~ )
-- 대학 CERT (2017.07 ~ )
 
 ## Award
 - 제 5회 소프트웨어 개발보안 경진대회 장려상
