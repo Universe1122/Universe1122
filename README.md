@@ -27,7 +27,8 @@
 - Changwon University [CASPER](https://casper.or.kr) 21년도 동아리 회장 (2021.03 ~ )
 - [BOB 10th](https://www.kitribob.kr/) 취약점 분석 트랙 (2021.07 ~ )
 - 우리은행 모의해킹 경진대회 참가 (2021.11.01 ~ 2021.11.05)
-- Hack The Challenge 2021 (2021.11.10 ~ )
+- Hack The Challenge 2021 (2021.11.10 ~ 2021.11.23)
+- BISC 2021 CTF 4th
 
 ## 🏆 Award
 - 제 5회 소프트웨어 개발보안 경진대회 장려상
