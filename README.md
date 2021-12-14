@@ -10,19 +10,19 @@
 
 
 ## 🐞 Bug Bounty
-- KVE-2020-1698
-- NBB-1810	[Naver Bug Bounty 'SPECIAL CONTRIBUTORS'](https://bugbounty.naver.com/ko/halloffame)
-- KVE-2021-0637
-- KVE-2021-0735  
-- KVE-2021-0741  
-- KVE-2021-0742   ( `$150` )
-- KVE-2021-0754
-- KVE-2021-1222   ( `???` )
-- KVE-2021-1414   ( `$200` )
-- KVE-2021-2008
-- KVE-2021-2026
-- KVE-2021-2027
-- KVE-2021-2029
+| Naver | KISA | Hack The Challenge| Hackerone |
+| ------ | ------ | ------ | ------ |
+| [NBB-1810](https://bugbounty.naver.com/ko/halloffame) | KVE-2020-1698 | KVE-2021-1414 `(₩ 200,000)` | ????? |
+|  | KVE-2021-0637 |  |  |
+|  | KVE-2021-0735 |  |  |
+|  | KVE-2021-0741 |  |  |
+|  | KVE-2021-0742 `(₩ 150,000)` |  |  |
+|  | KVE-2021-0754 |  |  |
+|  | KVE-2021-1222 `(???)` |  |  |
+|  | KVE-2021-2008 |  |  |
+|  | KVE-2021-2026 |  |  |
+|  | KVE-2021-2027 |  |  |
+|  | KVE-2021-2029 |  |  |
 
 ## 🖥️ Activity
 - 대학 CERT (2017.07 ~ )
