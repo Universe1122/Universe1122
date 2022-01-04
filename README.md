@@ -12,13 +12,13 @@
 ## 🐞 Bug Bounty
 | Naver | KISA | Hack The Challenge| Hackerone |
 | ------ | ------ | ------ | ------ |
-| [NBB-1810](https://bugbounty.naver.com/ko/halloffame) | KVE-2020-1698 | KVE-2021-1414 `(₩ 200,000)` |  |
+| [NBB-1810](https://bugbounty.naver.com/ko/halloffame) | KVE-2020-1698 | KVE-2021-1414 |  |
 | NBB-2217 | KVE-2021-0637 |  |  |
 | NBB-2221 | KVE-2021-0735 |  |  |
 |  | KVE-2021-0741 |  |  |
-|  | KVE-2021-0742 `(₩ 150,000)` |  |  |
+|  | KVE-2021-0742 |  |  |
 |  | KVE-2021-0754 |  |  |
-|  | KVE-2021-1222 `(???)` |  |  |
+|  | KVE-2021-1222 |  |  |
 |  | KVE-2021-2008 |  |  |
 |  | KVE-2021-2026 |  |  |
 |  | KVE-2021-2027 |  |  |
