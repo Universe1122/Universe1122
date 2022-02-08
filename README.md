@@ -9,7 +9,7 @@
 > I like this sentence *'Effort does not betray.'*
 
 
-## 🐞 Bug Bounty
+## 🐞 Bug Bounty 
 | Naver | KISA | Hack The Challenge| Hackerone |
 | ------ | ------ | ------ | ------ |
 | [NBB-1810](https://bugbounty.naver.com/ko/halloffame) | KVE-2020-1698 | KVE-2021-1414 |  |
@@ -24,6 +24,8 @@
 |  | KVE-2021-2027 |  |  |
 |  | KVE-2021-2029 |  |  |
 |  | KVE-2022-0015 |  |  |
+
+total: 500,000 won
 
 ## 🖥️ Activity
 - 대학 CERT (2017.07 ~ )
