@@ -39,6 +39,7 @@
 
 ## 🏆 Award
 - 제 5회 소프트웨어 개발보안 경진대회 장려상
+- Patchstack Alliance Team 취약점 제보 1위 (2022.01)
 
 ## 🚩 CTF
 - BISC 2021 CTF 5th
