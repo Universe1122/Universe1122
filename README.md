@@ -43,4 +43,4 @@
 
 ## 🚩 CTF
 - BISC 2021 CTF 5th
-- DiceCTF 2022 19th
+- DiceCTF 2022 19th (with C4C)
