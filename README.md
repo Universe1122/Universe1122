@@ -12,9 +12,9 @@
 ## 🐞 Bug Bounty 
 | Naver | KISA | Hack The Challenge| CVE |
 | ------ | ------ | ------ | ------ |
-| [NBB-1810](https://bugbounty.naver.com/ko/halloffame) | KVE-2020-1698 | KVE-2021-1414 | CVE-2022-29452 |
-| NBB-2217 | KVE-2021-0637 |  | CVE-2022-34154 |
-| NBB-2221 | KVE-2021-0735 |  | CVE-2022-36343 | 
+| [NBB-1810](https://bugbounty.naver.com/ko/halloffame) | KVE-2020-1698 | KVE-2021-1414 | [CVE-2022-29452](https://patchstack.com/database/vulnerability/export-all-urls/wordpress-export-all-urls-plugin-4-1-authenticated-stored-cross-site-scripting-xss-vulnerability) |
+| NBB-2217 | KVE-2021-0637 |  | [CVE-2022-34154](https://patchstack.com/database/vulnerability/enable-svg-webp-ico-upload/wordpress-enable-svg-webp-ico-upload-plugin-1-0-1-authenticated-arbitrary-file-upload-vulnerability) |
+| NBB-2221 | KVE-2021-0735 |  | [CVE-2022-36343](https://patchstack.com/database/vulnerability/enable-svg-webp-ico-upload/wordpress-enable-svg-webp-ico-upload-plugin-1-0-1-authenticated-stored-cross-site-scripting-xss-vulnerability) | 
 | NBB-2226 | KVE-2021-0741 |  |  |
 | NBB-2238 | KVE-2021-0742 |  |  |
 | NBB-2299	 | KVE-2021-0754 |  |  |
