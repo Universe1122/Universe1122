@@ -27,15 +27,16 @@
 
 
 ## 🖥️ Activity
-- 대학 CERT (2017.07 ~ )
-- 사이버작전사령부 정보보호병 (2019.07 ~ 2020.11)
-- ??? 신규웹사이트 취약점점검
-- Changwon University [CASPER](https://casper.or.kr) 21년도 동아리 회장 (2021.03 ~ 2021.12)
-- [BOB 10th](https://www.kitribob.kr/) 취약점 분석 트랙 (2021.07 ~ 2022.03)
-- 우리은행 모의해킹 경진대회 참가 (2021.11.01 ~ 2021.11.05)
-- Hack The Challenge 2021 (2021.11.10 ~ 2021.11.23)
-- [Patchstack Alliance Team](https://patchstack.com/articles/introducing-patchstack-alliance/) (2022.02 ~ )
+- KakaoBank 어플리케이션보안팀 인턴 (2022.08 ~ 2022.11) 
 - [TeamH4C](https://teamh4c.com/) (2022.07 ~ )
+- [Patchstack Alliance Team](https://patchstack.com/articles/introducing-patchstack-alliance/) (2022.02 ~ )
+- Hack The Challenge 2021 (2021.11.10 ~ 2021.11.23)
+- 우리은행 모의해킹 경진대회 참가 (2021.11.01 ~ 2021.11.05)
+- [BOB 10th](https://www.kitribob.kr/) 취약점 분석 트랙 (2021.07 ~ 2022.03)
+- Changwon University [CASPER](https://casper.or.kr) 21년도 동아리 회장 (2021.03 ~ 2021.12)
+- ??? 신규웹사이트 취약점점검
+- 사이버작전사령부 정보보호병 (2019.07 ~ 2020.11)
+- 대학 CERT (2017.07 ~ )
 
 ## 🏆 Award
 - 제 5회 소프트웨어 개발보안 경진대회 장려상
