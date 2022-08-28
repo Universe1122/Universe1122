@@ -28,7 +28,7 @@
 
 
 ## 🖥️ Activity
-- KakaoBank 어플리케이션보안팀 인턴 (2022.08 ~ 2022.11) 
+- [KakaoBank](https://www.kakaobank.com/) 어플리케이션보안팀 인턴 (2022.08 ~ 2022.11) 
 - [TeamH4C](https://teamh4c.com/) (2022.07 ~ )
 - [Patchstack Alliance Team](https://patchstack.com/articles/introducing-patchstack-alliance/) (2022.02 ~ )
 - Hack The Challenge 2021 (2021.11.10 ~ 2021.11.23)
