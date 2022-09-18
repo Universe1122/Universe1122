@@ -11,6 +11,7 @@
 ## 🐞 Bug Bounty 
 - [파인더 갭] 취약점 3개 제보
 - gnuboard5 social API key leak [링크](https://github.com/gnuboard/gnuboard5/issues/175)
+
 | Naver | KISA | Hack The Challenge| CVE |
 | ------ | ------ | ------ | ------ |
 | [NBB-1810](https://bugbounty.naver.com/ko/halloffame) | KVE-2020-1698 | KVE-2021-1414 | [CVE-2022-29452](https://patchstack.com/database/vulnerability/export-all-urls/wordpress-export-all-urls-plugin-4-1-authenticated-stored-cross-site-scripting-xss-vulnerability) |
