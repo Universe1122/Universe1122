@@ -28,12 +28,9 @@
 
 ## 🖥️ Activity
 - [KakaoBank](https://www.kakaobank.com/) 어플리케이션보안팀 인턴 (2022.08 ~ 2022.11) 
-- [Naver Bugbounty](https://bugbounty.naver.com/ko/halloffame) 2022 3th
 - [파인더 갭] 취약점 3개 제보
 - [TeamH4C](https://teamh4c.com/) (2022.07 ~ )
 - [Patchstack Alliance Team](https://patchstack.com/articles/introducing-patchstack-alliance/) (2022.02 ~ )
-- Hack The Challenge 2021 (2021.11.10 ~ 2021.11.23)
-- 우리은행 모의해킹 경진대회 참가 (2021.11.01 ~ 2021.11.05)
 - [BOB 10th](https://www.kitribob.kr/) 취약점 분석 트랙 (2021.07 ~ 2022.03)
 - Changwon University [CASPER](https://casper.or.kr) 21년도 동아리 회장 (2021.03 ~ 2021.12)
 - ??? 신규웹사이트 취약점점검
@@ -41,6 +38,7 @@
 - 대학 CERT (2017.07 ~ )
 
 ## 🏆 Award
+- [Naver Bugbounty](https://bugbounty.naver.com/ko/halloffame) 2022 3th ~ing
 - 제3회 KOSPO 웹서비스 정보보안 경진대회 최우수상 (2등) (2022.09)
 - Patchstack Alliance Team 취약점 제보 1위 (2022.01)
 - 제 5회 소프트웨어 개발보안 경진대회 장려상 (2018.11)
@@ -48,3 +46,7 @@
 ## 🚩 CTF
 - BISC 2021 CTF 5th
 - DiceCTF 2022 19th (with C4C)
+
+## ETC
+- Hack The Challenge 2021 (2021.11.10 ~ 2021.11.23)
+- 우리은행 모의해킹 경진대회 참가 (2021.11.01 ~ 2021.11.05)
