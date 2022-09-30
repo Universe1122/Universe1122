@@ -11,6 +11,7 @@
 ## 🐞 Bug Bounty 
 - [파인더 갭] 취약점 3개 제보
 - gnuboard5 social API key leak [링크](https://github.com/gnuboard/gnuboard5/issues/175)
+- ??? 신규웹사이트 취약점점검
 
 | Naver | KISA | Hack The Challenge| CVE |
 | ------ | ------ | ------ | ------ |
