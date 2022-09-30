@@ -20,7 +20,7 @@
 | NBB-2226 | KVE-2021-0741 |  | [CVE-2022-34656](https://patchstack.com/database/vulnerability/polls-widget/wordpress-poll-survey-questionnaire-and-voting-system-plugin-1-7-4-authenticated-cross-site-scripting-xss-vulnerability) |
 | NBB-2238 | KVE-2021-0742 |  | [CVE-2022-36285](https://patchstack.com/database/vulnerability/uploading-svgwebp-and-ico-files/wordpress-uploading-svg-webp-and-ico-files-plugin-1-0-0-authenticated-arbitrary-file-upload-vulnerability) |
 | NBB-2299 | KVE-2021-0754 |  | [CVE-2022-36343](https://patchstack.com/database/vulnerability/enable-svg-webp-ico-upload/wordpress-enable-svg-webp-ico-upload-plugin-1-0-1-authenticated-stored-cross-site-scripting-xss-vulnerability) |
-| NBB-2301 | KVE-2021-1222 |  |  |
+| NBB-2301 | KVE-2021-1222 |  | [CVE-2022-27858](https://patchstack.com/database/vulnerability/aryo-activity-log/wordpress-activity-log-plugin-2-8-3-csv-injection-vulnerability) |
 | NBB-2310 | KVE-2021-2008 |  |  |
 | NBB-2330 | KVE-2021-2026 |  |  |
 | NBB-2414 | KVE-2021-2027 |  |  |
