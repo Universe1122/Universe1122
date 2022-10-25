@@ -41,7 +41,7 @@
 - 대학 CERT (2017.07 ~ )
 
 ## 🏆 Award
-- [Naver Bugbounty](https://bugbounty.naver.com/ko/halloffame) 2022 3th ~ing
+- [Naver Bugbounty](https://bugbounty.naver.com/ko/halloffame) 2022 4th ~ing
 - 제3회 KOSPO 웹서비스 정보보안 경진대회 최우수상 (2등) (2022.09)
 - Patchstack Alliance Team 취약점 제보 6위 (2022.09)
 - Patchstack Alliance Team 취약점 제보 1위 (2022.01)
