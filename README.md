@@ -4,7 +4,7 @@
 
 *I like security and development.*
 
-*And I will be Security Engineer.*
+*And I will be an Application Security Engineer.*
 
 > I like this sentence *'Effort does not betray.'*
 
