@@ -22,7 +22,7 @@
 | NBB-2238 | KVE-2021-0742 |  | [CVE-2022-36285](https://patchstack.com/database/vulnerability/uploading-svgwebp-and-ico-files/wordpress-uploading-svg-webp-and-ico-files-plugin-1-0-0-authenticated-arbitrary-file-upload-vulnerability) |
 | NBB-2299 | KVE-2021-0754 |  | [CVE-2022-36343](https://patchstack.com/database/vulnerability/enable-svg-webp-ico-upload/wordpress-enable-svg-webp-ico-upload-plugin-1-0-1-authenticated-stored-cross-site-scripting-xss-vulnerability) |
 | NBB-2301 | KVE-2021-1222 |  | [CVE-2022-27858](https://patchstack.com/database/vulnerability/aryo-activity-log/wordpress-activity-log-plugin-2-8-3-csv-injection-vulnerability) |
-| NBB-2310 | KVE-2021-2008 |  |  |
+| NBB-2310 | KVE-2021-2008 |  | [CVE-2023-27451](https://patchstack.com/database/vulnerability/instant-images/wordpress-instant-images-5-1-0-1-auth-server-side-request-forgery-ssrf-vulnerability) |
 | NBB-2330 | KVE-2021-2026 |  |  |
 | NBB-2414 | KVE-2021-2027 |  |  |
 | NBB-2419 | KVE-2021-2029 |  |  |
@@ -35,7 +35,7 @@
 - [Theori](https://theori.io/) 오펜시브 보안 컨설턴트 인턴 (2023.03 ~ )
 - [KakaoBank](https://www.kakaobank.com/) 어플리케이션보안팀 인턴 (2022.08 ~ 2022.11) 
 - [TeamH4C](https://teamh4c.com/) (2022.07 ~ )
-- [Patchstack Alliance Team](https://patchstack.com/articles/introducing-patchstack-alliance/) (2022.02 ~ )
+- [Patchstack Alliance Team](https://patchstack.com/database/researcher/a1e96ab9-b2c8-45bb-8aa1-93bef17030e0) (2022.02 ~ )
 - [BOB 10th](https://www.kitribob.kr/) 취약점 분석 트랙 (2021.07 ~ 2022.03)
 - Changwon University [CASPER](https://casper.or.kr) 21년도 동아리 회장 (2021.03 ~ 2021.12)
 - 사이버작전사령부 정보보호병 (2019.07 ~ 2020.11)
