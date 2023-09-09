@@ -32,7 +32,7 @@
 
 
 ## 🖥️ Activity
-- [Theori](https://theori.io/) 오펜시브 보안 컨설턴트 인턴 (2023.03 ~ )
+- [Theori](https://theori.io/) 오펜시브 보안 컨설턴트 (2023.03 ~ )
 - [KakaoBank](https://www.kakaobank.com/) 어플리케이션보안팀 인턴 (2022.08 ~ 2022.11) 
 - [TeamH4C](https://teamh4c.com/) (2022.07 ~ )
 - [Patchstack Alliance Team](https://patchstack.com/database/researcher/a1e96ab9-b2c8-45bb-8aa1-93bef17030e0) (2022.02 ~ )
