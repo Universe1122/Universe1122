@@ -23,7 +23,7 @@
 | NBB-2299 | KVE-2021-0754 |  | [CVE-2022-36343](https://patchstack.com/database/vulnerability/enable-svg-webp-ico-upload/wordpress-enable-svg-webp-ico-upload-plugin-1-0-1-authenticated-stored-cross-site-scripting-xss-vulnerability) |
 | NBB-2301 | KVE-2021-1222 |  | [CVE-2022-27858](https://patchstack.com/database/vulnerability/aryo-activity-log/wordpress-activity-log-plugin-2-8-3-csv-injection-vulnerability) |
 | NBB-2310 | KVE-2021-2008 |  | [CVE-2023-27451](https://patchstack.com/database/vulnerability/instant-images/wordpress-instant-images-5-1-0-1-auth-server-side-request-forgery-ssrf-vulnerability) |
-| NBB-2330 | KVE-2021-2026 |  |  |
+| NBB-2330 | KVE-2021-2026 |  | [CVE-2024-27923](https://github.com/getgrav/grav/security/advisories/GHSA-f6g2-h7qv-3m5v) |
 | NBB-2414 | KVE-2021-2027 |  |  |
 | NBB-2419 | KVE-2021-2029 |  |  |
 | NBB-2441 | KVE-2022-0015 |  |  |
